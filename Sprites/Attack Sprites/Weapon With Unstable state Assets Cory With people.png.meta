@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: b13a57feef3334f4d980ff9a7aca8c1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1795315979460931466
+    second: Weapon With Unstable state Assets Cory With people_0
+  - first:
+      213: -3335754714650474655
+    second: Weapon With Unstable state Assets Cory With people_1
+  - first:
+      213: 6048298844206749361
+    second: Weapon With Unstable state Assets Cory With people_2
+  - first:
+      213: 2248838002931397638
+    second: Weapon With Unstable state Assets Cory With people_3
+  - first:
+      213: -1748782111863707482
+    second: Weapon With Unstable state Assets Cory With people_4
+  - first:
+      213: 8119193620406192372
+    second: Weapon With Unstable state Assets Cory With people_5
+  - first:
+      213: 1739696056809345347
+    second: Weapon With Unstable state Assets Cory With people_6
+  - first:
+      213: 3605432843071691744
+    second: Weapon With Unstable state Assets Cory With people_7
+  - first:
+      213: 5346768577532397933
+    second: Weapon With Unstable state Assets Cory With people_8
+  - first:
+      213: 7618396487302713947
+    second: Weapon With Unstable state Assets Cory With people_9
+  - first:
+      213: 1426297732753613125
+    second: Weapon With Unstable state Assets Cory With people_10
+  - first:
+      213: -5080868623718612270
+    second: Weapon With Unstable state Assets Cory With people_11
+  - first:
+      213: -3419409146913045203
+    second: Weapon With Unstable state Assets Cory With people_12
+  - first:
+      213: 2945744972799462841
+    second: Weapon With Unstable state Assets Cory With people_13
+  - first:
+      213: 3846146589358205549
+    second: Weapon With Unstable state Assets Cory With people_14
+  - first:
+      213: 5104800186076112783
+    second: Weapon With Unstable state Assets Cory With people_15
+  - first:
+      213: -8989054774226637528
+    second: Weapon With Unstable state Assets Cory With people_16
+  - first:
+      213: 5707061828006014330
+    second: Weapon With Unstable state Assets Cory With people_17
+  - first:
+      213: -7756286732314446202
+    second: Weapon With Unstable state Assets Cory With people_18
+  - first:
+      213: -5274448187740782309
+    second: Weapon With Unstable state Assets Cory With people_19
+  - first:
+      213: -9111168800749060861
+    second: Weapon With Unstable state Assets Cory With people_20
+  - first:
+      213: 3397373337573124841
+    second: Weapon With Unstable state Assets Cory With people_21
+  - first:
+      213: 193582615063415996
+    second: Weapon With Unstable state Assets Cory With people_22
+  - first:
+      213: 7270494176023561866
+    second: Weapon With Unstable state Assets Cory With people_23
+  - first:
+      213: 3118758278980885611
+    second: Weapon With Unstable state Assets Cory With people_24
+  - first:
+      213: -2934043990397827848
+    second: Weapon With Unstable state Assets Cory With people_25
+  - first:
+      213: -6908435410892762765
+    second: Weapon With Unstable state Assets Cory With people_26
+  - first:
+      213: 5879825396988628548
+    second: Weapon With Unstable state Assets Cory With people_27
+  - first:
+      213: -3053739400269984736
+    second: Weapon With Unstable state Assets Cory With people_28
+  - first:
+      213: 2980218222140890207
+    second: Weapon With Unstable state Assets Cory With people_29
+  - first:
+      213: 7999159089019754598
+    second: Weapon With Unstable state Assets Cory With people_30
+  - first:
+      213: -828814055481256150
+    second: Weapon With Unstable state Assets Cory With people_31
+  - first:
+      213: 7780735774469018515
+    second: Weapon With Unstable state Assets Cory With people_32
+  - first:
+      213: -1566478195276158384
+    second: Weapon With Unstable state Assets Cory With people_33
+  - first:
+      213: -7700790520595970317
+    second: Weapon With Unstable state Assets Cory With people_34
+  - first:
+      213: 6570265841732102745
+    second: Weapon With Unstable state Assets Cory With people_35
+  - first:
+      213: -5273363502174642362
+    second: Weapon With Unstable state Assets Cory With people_36
+  - first:
+      213: 7719690570502982999
+    second: Weapon With Unstable state Assets Cory With people_37
+  - first:
+      213: -1984280752993751036
+    second: Weapon With Unstable state Assets Cory With people_38
+  - first:
+      213: -6447481541144515372
+    second: Weapon With Unstable state Assets Cory With people_39
+  - first:
+      213: 7694806632554024477
+    second: Weapon With Unstable state Assets Cory With people_40
+  - first:
+      213: 287170646630699684
+    second: Weapon With Unstable state Assets Cory With people_41
+  - first:
+      213: -2989339033600755295
+    second: Weapon With Unstable state Assets Cory With people_42
+  - first:
+      213: 3786906510583293754
+    second: Weapon With Unstable state Assets Cory With people_43
+  - first:
+      213: 4701116790471940
+    second: Weapon With Unstable state Assets Cory With people_44
+  - first:
+      213: -2236532291424954552
+    second: Weapon With Unstable state Assets Cory With people_45
+  - first:
+      213: -6969209227580334567
+    second: Weapon With Unstable state Assets Cory With people_46
+  - first:
+      213: -552338413162099335
+    second: Weapon With Unstable state Assets Cory With people_47
+  - first:
+      213: -5961827785840087556
+    second: Weapon With Unstable state Assets Cory With people_48
+  - first:
+      213: 7270777694489978318
+    second: Weapon With Unstable state Assets Cory With people_49
+  - first:
+      213: 4543419477867556399
+    second: Weapon With Unstable state Assets Cory With people_50
+  - first:
+      213: 7841721463906691272
+    second: Weapon With Unstable state Assets Cory With people_51
+  - first:
+      213: -3013126942399159566
+    second: Weapon With Unstable state Assets Cory With people_52
+  - first:
+      213: 3744607819583514726
+    second: Weapon With Unstable state Assets Cory With people_53
+  - first:
+      213: -1192670301641769453
+    second: Weapon With Unstable state Assets Cory With people_54
+  - first:
+      213: 2719526483729293158
+    second: Weapon With Unstable state Assets Cory With people_55
+  - first:
+      213: -2327312475507101253
+    second: Weapon With Unstable state Assets Cory With people_56
+  - first:
+      213: -3395736355492345173
+    second: Weapon With Unstable state Assets Cory With people_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe95f0f5e3ae810800000000000000
+      internalID: 1795315979460931466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 466
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1678c67b2c405b1d0800000000000000
+      internalID: -3335754714650474655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 476
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65958e0cfdfe350800000000000000
+      internalID: 6048298844206749361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 490
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ff12bf3a753f10800000000000000
+      internalID: 2248838002931397638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 471
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a86ec84fe31bb7e0800000000000000
+      internalID: -1748782111863707482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 488
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8cde6949b2da070800000000000000
+      internalID: 8119193620406192372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 466
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d44ba854a42810800000000000000
+      internalID: 1739696056809345347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 470
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb90d08112190230800000000000000
+      internalID: 3605432843071691744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 466
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690a0061b9833a40800000000000000
+      internalID: 5346768577532397933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 466
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5213cfbd3bf9b960800000000000000
+      internalID: 7618396487302713947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 469
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54169b82b3a3bc310800000000000000
+      internalID: 1426297732753613125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 466
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d203d408e02d79b0800000000000000
+      internalID: -5080868623718612270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 466
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c6886f71db80d0800000000000000
+      internalID: -3419409146913045203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdca9e027361e820800000000000000
+      internalID: 2945744972799462841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 464
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa6ccf1f1406530800000000000000
+      internalID: 3846146589358205549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 466
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872a6c09b4e7d640800000000000000
+      internalID: 5104800186076112783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 466
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d21b31f46704380800000000000000
+      internalID: -8989054774226637528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 467
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d6d79ce7e833f40800000000000000
+      internalID: 5707061828006014330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 466
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867250cf422c5490800000000000000
+      internalID: -7756286732314446202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 432
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11028781556dc6b0800000000000000
+      internalID: -5274448187740782309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 437
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dfabeaf30ae8180800000000000000
+      internalID: -9111168800749060861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 434
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaed6bec05e52f20800000000000000
+      internalID: 3397373337573124841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 439
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbccb8ddc5ebfa200800000000000000
+      internalID: 193582615063415996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 435
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864e6faeebf5e460800000000000000
+      internalID: 7270494176023561866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 433
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd6fe712e084b20800000000000000
+      internalID: 3118758278980885611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 436
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c7f4398e2847d0800000000000000
+      internalID: -2934043990397827848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 437
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371d104a89e4020a0800000000000000
+      internalID: -6908435410892762765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 425
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec3d0cb06599150800000000000000
+      internalID: 5879825396988628548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 407
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c0b42e130fe95d0800000000000000
+      internalID: -3053739400269984736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 433
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9ad3eeacdb5920800000000000000
+      internalID: 2980218222140890207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 407
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6681cd26fc8b20f60800000000000000
+      internalID: 7999159089019754598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 426
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27503ef1067f74f0800000000000000
+      internalID: -828814055481256150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_32
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 429
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393566876f9bafb60800000000000000
+      internalID: 7780735774469018515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 421
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a6b268160c24ae0800000000000000
+      internalID: -1566478195276158384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 403
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f68e2272db412590800000000000000
+      internalID: -7700790520595970317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 401
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2358e8f54e2b50800000000000000
+      internalID: 6570265841732102745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 419
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fde5195df31d6b0800000000000000
+      internalID: -5273363502174642362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 402
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d43c65ca9d12b60800000000000000
+      internalID: 7719690570502982999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 420
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b9271b2b6674e0800000000000000
+      internalID: -1984280752993751036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 418
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6134d2b1f586a0800000000000000
+      internalID: -6447481541144515372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_40
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 402
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ec3bc0dd179ca60800000000000000
+      internalID: 7694806632554024477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 418
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2975e7e2c3cf300800000000000000
+      internalID: 287170646630699684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 418
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a97405bcfbb386d0800000000000000
+      internalID: -2989339033600755295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 400
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a376ee0586bcd8430800000000000000
+      internalID: 3786906510583293754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_44
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 407
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40df75c04a3b01000800000000000000
+      internalID: 4701116790471940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 402
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847dce80bbd36f0e0800000000000000
+      internalID: -2236532291424954552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 402
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e13b8c125684f90800000000000000
+      internalID: -6969209227580334567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 400
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8bafb323b558f0800000000000000
+      internalID: -552338413162099335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_48
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda2f44735534da0800000000000000
+      internalID: -5961827785840087556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_49
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 400
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a8e87acdf6e460800000000000000
+      internalID: 7270777694489978318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_50
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 397
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ee2eb61f77d0f30800000000000000
+      internalID: 4543419477867556399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_51
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 399
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e6bbcf1463dc60800000000000000
+      internalID: 7841721463906691272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_52
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 399
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a32792093f26d0800000000000000
+      internalID: -3013126942399159566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 399
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ec6dd8f487f330800000000000000
+      internalID: 3744607819583514726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_54
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 397
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31efb700ea8c27fe0800000000000000
+      internalID: -1192670301641769453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f93f3ade2bdb520800000000000000
+      internalID: 2719526483729293158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 369
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1701852a9b3bfd0800000000000000
+      internalID: -2327312475507101253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon With Unstable state Assets Cory With people_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 369
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baacffba6cbefd0d0800000000000000
+      internalID: -3395736355492345173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
